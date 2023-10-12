@@ -1,0 +1,285 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bimbo Breads",
+      "is_available": true,
+      "price": 12,
+      "rating": 4.69,
+      "brand": "Bimbo",
+      "category": "Bakery",
+      "items_left": 5,
+      "items": [
+        {
+          "item_id": 101,
+          "expiry_date": "2050-03-30T12:57:07.846Z"
+        },
+        {
+          "item_id": 102,
+          "expiry_date": "2050-03-12T11:30:07.846Z"
+        },
+        {
+          "item_id": 103,
+          "expiry_date": "2023-03-07T06:32:07.846Z"
+        },
+        {
+          "item_id": 104,
+          "expiry_date": "2023-03-15T07:25:07.846Z"
+        },
+        {
+          "item_id": 105,
+          "expiry_date": "2050-02-01T12:57:07.846Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Low fat milk",
+      "is_available": true,
+      "price": 10,
+      "rating": 4.78,
+      "brand": "Angel Delight",
+      "category": "Dairy"
+    },
+    {
+      "id": 3,
+      "name": "Mill's Oats",
+      "is_available": true,
+      "price": 12,
+      "rating": 4.2,
+      "brand": "ArrowHead Mills",
+      "category": "Bakery",
+      "items_left": 15,
+      "items": [
+        {
+          "item_id": 301,
+          "expiry_date": "2023-01-07T01:47:07.846Z"
+        },
+        {
+          "item_id": 302,
+          "expiry_date": "2023-01-04T02:09:07.846Z"
+        },
+        {
+          "item_id": 303,
+          "expiry_date": "2023-02-12T06:23:07.846Z"
+        },
+        {
+          "item_id": 304,
+          "expiry_date": "2050-12-10T13:23:07.846Z"
+        },
+        {
+          "item_id": 305,
+          "expiry_date": "2050-12-07T15:30:07.846Z"
+        },
+        {
+          "item_id": 306,
+          "expiry_date": "2050-12-17T12:57:07.846Z"
+        },
+        {
+          "item_id": 307,
+          "expiry_date": "2050-12-27T10:57:07.846Z"
+        },
+        {
+          "item_id": 308,
+          "expiry_date": "2023-12-27T13:57:07.846Z"
+        },
+        {
+          "item_id": 309,
+          "expiry_date": "2050-12-30T12:45:07.846Z"
+        },
+        {
+          "item_id": 310,
+          "expiry_date": "2050-11-29T13:54:07.846Z"
+        },
+        {
+          "item_id": 311,
+          "expiry_date": "2050-12-28T12:09:07.846Z"
+        },
+        {
+          "item_id": 312,
+          "expiry_date": "2050-07-237T12:45:07.846Z"
+        },
+        {
+          "item_id": 313,
+          "expiry_date": "2050-05-07T11:33:07.846Z"
+        },
+        {
+          "item_id": 314,
+          "expiry_date": "2050-04-12T13:27:07.846Z"
+        },
+        {
+          "item_id": 315,
+          "expiry_date": "2050-07-07T12:34:07.846Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Instant pudding",
+      "is_available": true,
+      "price": 20,
+      "rating": 4.78,
+      "brand": "Angel Delight",
+      "category": "Frozen",
+      "items_left": 5,
+      "items": [
+        {
+          "item_id": 401,
+          "expiry_date": "2023-03-17T01:57:07.846Z"
+        },
+        {
+          "item_id": 402,
+          "expiry_date": "2023-03-30T04:17:07.846Z"
+        },
+        {
+          "item_id": 403,
+          "expiry_date": "2023-03-30T09:56:07.846Z"
+        },
+        {
+          "item_id": 404,
+          "expiry_date": "2023-03-22T12:23:07.846Z"
+        },
+        {
+          "item_id": 405,
+          "expiry_date": "2050-04-05T03:29:07.846Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bimbo Salsa sauce",
+      "is_available": false,
+      "price": 12,
+      "rating": 4.2,
+      "brand": "Bimbo",
+      "category": "Condiments",
+      "items_left": 5,
+      "items": [
+        {
+          "item_id": 501,
+          "expiry_date": "2023-01-30T12:57:07.846Z"
+        },
+        {
+          "item_id": 502,
+          "expiry_date": "2023-01-12T11:30:07.846Z"
+        },
+        {
+          "item_id": 503,
+          "expiry_date": "2023-01-07T06:32:07.846Z"
+        },
+        {
+          "item_id": 504,
+          "expiry_date": "2023-01-15T07:25:07.846Z"
+        },
+        {
+          "item_id": 505,
+          "expiry_date": "2023-01-01T12:57:07.846Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Cereal bars",
+      "is_available": true,
+      "price": 34,
+      "rating": 3.6,
+      "brand": "Burry",
+      "category": "Bakery",
+      "items_left": 6,
+      "items": [
+        {
+          "item_id": 601,
+          "expiry_date": "2050-06-10T01:47:07.846Z"
+        },
+        {
+          "item_id": 602,
+          "expiry_date": "2050-05-11T12:23:07.846Z"
+        },
+        {
+          "item_id": 603,
+          "expiry_date": "2050-05-11T12:57:07.846Z"
+        },
+        {
+          "item_id": 604,
+          "expiry_date": "2023-03-22T13:57:07.846Z"
+        },
+        {
+          "item_id": 605,
+          "expiry_date": "2050-05-15T03:57:07.846Z"
+        },
+        {
+          "item_id": 606,
+          "expiry_date": "2023-02-17T09:57:07.846Z"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cinamon Roll",
+      "is_available": true,
+      "price": 20,
+      "rating": 3.6,
+      "brand": "Burry",
+      "category": "Bakery",
+      "items_left": 6,
+      "items": [
+        {
+          "item_id": 701,
+          "expiry_date": "2050-06-10T01:47:07.846Z"
+        },
+        {
+          "item_id": 702,
+          "expiry_date": "2050-05-11T12:23:07.846Z"
+        },
+        {
+          "item_id": 703,
+          "expiry_date": "2050-05-11T12:57:07.846Z"
+        },
+        {
+          "item_id": 704,
+          "expiry_date": "2023-03-22T13:57:07.846Z"
+        },
+        {
+          "item_id": 705,
+          "expiry_date": "2050-05-15T03:57:07.846Z"
+        },
+        {
+          "item_id": 706,
+          "expiry_date": "2023-02-17T09:57:07.846Z"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Full fat milk",
+      "is_available": true,
+      "price": 10,
+      "rating": 4.78,
+      "brand": "Angel Delight",
+      "category": "Dairy",
+      "items_left": 5,
+      "items": [
+        {
+          "item_id": 801,
+          "expiry_date": "2023-01-17T01:57:07.846Z"
+        },
+        {
+          "item_id": 802,
+          "expiry_date": "2023-01-30T04:17:07.846Z"
+        },
+        {
+          "item_id": 803,
+          "expiry_date": "2023-01-30T09:56:07.846Z"
+        },
+        {
+          "item_id": 804,
+          "expiry_date": "2023-01-22T12:23:07.846Z"
+        },
+        {
+          "item_id": 805,
+          "expiry_date": "2023-01-05T03:29:07.846Z"
+        }
+      ]
+    }
+  ]
+}

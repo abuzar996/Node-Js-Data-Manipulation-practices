@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Aaron",
+      "credit_card": 5555553753048194,
+      "phone_number": 6056775011,
+      "country": "United States",
+      "email": "peter.pezylker.com"
+    },
+    {
+      "id": 2,
+      "name": "Hemanth",
+      "credit_card": 3234557535048147,
+      "phone_number": 4056774023,
+      "country": "India",
+      "email": "hemanth. p@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Ceylon",
+      "credit_card": 8555553753048189,
+      "phone_number": 905677502,
+      "country": "United States",
+      "email": "ceylon.pagmail.com"
+    }
+  ]
+}

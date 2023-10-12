@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bimbo Breads",
+      "expiry_date": "2023-05-3112:00:00Z",
+      "manufactured_date": "2022-11-15T08:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Cinamon Roll",
+      "expiry_date": "2023-04-3012:00:00Z",
+      "manufactured_date": "2022-10-01720:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Mill's Oats",
+      "expiry_date": "2023-06-30T12:00:00Z",
+      "manufactured_date": "2022-12-01T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Instant pudding",
+      "expiry_date": "2023-03-3112:00:00Z",
+      "manufactured_date": "2022-09-1514:30:00Z"
+    }
+  ]
+}
